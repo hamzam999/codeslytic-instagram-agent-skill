@@ -1,0 +1,9 @@
+Oracle to Postgres. Zero downtime. 60% cheaper.
+We did it for an enterprise.
+The trap is PL/SQL. A naive move breaks your app logic.
+So we rewrote 150 plus procedures into PL/pgSQL, with tests.
+Then AWS DMS kept both databases in sync.
+Cutover took zero minutes of downtime.
+Top 100 queries ran 3.5 times faster.
+It paid for itself in 6 months.
+Paying for Oracle? Comment POSTGRES for the migration plan.

@@ -1,0 +1,8 @@
+We killed paper job cards. Lead time fell 60%.
+This plant ran on paper logs and two spreadsheets, so stock never matched and orders ran late.
+So we built one system on Frappe and Next.js.
+Bill of materials, work orders, purchasing, stock. It's all live.
+Operators log work on the shop floor. No paper.
+Inventory accuracy? 99.8%.
+Leadership sees margin on every run.
+Still on paper job cards? Comment ERP, I'll send the checklist.

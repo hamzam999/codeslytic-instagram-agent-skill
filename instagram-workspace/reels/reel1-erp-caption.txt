@@ -1,0 +1,11 @@
+Still on paper job cards? Comment ERP and I'll send the checklist.
+
+A manufacturer ran production on paper logs and two spreadsheets. Stock never matched and job orders ran late.
+
+We built custom ERP software on Frappe and Next.js: bill of materials, work orders, purchasing and stock entry in one system.
+
+Result: 99.8% inventory accuracy, 60% faster order to production, and margin visible per production run.
+
+We build manufacturing ERP, micro ERP and custom SaaS for teams in the USA, UAE and India.
+
+#ERP #Manufacturing #Frappe
