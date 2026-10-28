@@ -1,0 +1,28 @@
+{
+  "brand": {
+    "orange":      { "hex": "#FEA849", "rgb": "254 168 73",  "use": "Primary accent, CTAs, highlights (dark label #15110D, 9.76:1)" },
+    "orange-text": { "hex": "#975A05", "use": "Orange as small text on LIGHT backgrounds (>=4.5:1)" },
+    "orange-deep": { "hex": "#7E4A03", "use": "Strong/pressed orange, borders on light" },
+    "blue":        { "hex": "#6DADFF", "rgb": "109 173 255", "use": "Secondary accent on DARK backgrounds" },
+    "blue-light":  { "hex": "#0278E7", "use": "Secondary accent on LIGHT backgrounds" },
+    "blue-text":   { "hex": "#268BFC", "use": "Blue as small text on dark" },
+    "blue-text-light": { "hex": "#0267C7", "use": "Blue as small text on light" }
+  },
+  "logo-gradient": {
+    "orange": ["#FFC400", "#FF9A00", "#F2560A"],
+    "blue":   ["#2BC4FF", "#0A8CF0", "#0B5BD8"],
+    "note": "Approximate sampled colours of the 3D logo artwork. Use the supplied PNGs; do not recreate."
+  },
+  "dark": {
+    "void": "#0C0805", "background": "#1E1A15", "surface": "#15110C", "surface-2": "#211C17",
+    "elevated": "#28231E", "border": "#423C35", "border-strong": "#69625B",
+    "text-primary": "#FCFAF7", "text-secondary": "#B7AEA4", "text-tertiary": "#92897F"
+  },
+  "light": {
+    "background": "#FFFDFB", "void": "#F9F2EB", "surface": "#FCF6EE", "surface-2": "#EDE7DF",
+    "elevated": "#F2ECE4", "border": "#D9D3CC", "border-strong": "#8B857F",
+    "text-primary": "#110C08", "text-secondary": "#524A41", "text-tertiary": "#70675E"
+  },
+  "semantic": { "success-dark": "#34D399", "success-light": "#047857" },
+  "neutrals-cool": ["#090A0C","#111111","#303236","#4A4B50","#6B6C6D","#95979E","#A9A9AA","#D1D1D1","#E5E5E7","#FFFFFF"]
+}

@@ -1,0 +1,11 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CodesLytic Palette</title>
+<style>body{margin:0;padding:32px 16px;background:#0c0805;color:#fcfaf7;font:15px Inter,system-ui,sans-serif}h1{font-family:Sora,sans-serif}h2{margin-top:36px;color:#fea849;font-size:14px;letter-spacing:.14em;text-transform:uppercase}
+.g{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:12px}.s{border:1px solid #423c35;border-radius:12px;overflow:hidden;background:#15110c}.s i{display:block;height:80px}.s b,.s span{display:block;padding:4px 10px;font-size:13px}.s span{font-family:monospace;color:#b7aea4;padding-bottom:10px}</style></head><body>
+<h1>CodesLytic colour palette</h1><div id="o"></div>
+<script>
+const P={"Brand":[["Orange","#FEA849"],["Orange text (light bg)","#975A05"],["Orange deep","#7E4A03"],["Blue (dark bg)","#6DADFF"],["Blue (light bg)","#0278E7"],["Blue text dark","#268BFC"],["Blue text light","#0267C7"]],
+"Dark theme":[["Void","#0C0805"],["Background","#1E1A15"],["Surface","#15110C"],["Surface 2","#211C17"],["Elevated","#28231E"],["Border","#423C35"],["Text","#FCFAF7"],["Text 2","#B7AEA4"],["Text 3","#92897F"]],
+"Light theme":[["Background","#FFFDFB"],["Cream","#F9F2EB"],["Surface","#FCF6EE"],["Surface 2","#EDE7DF"],["Border","#D9D3CC"],["Text","#110C08"],["Text 2","#524A41"],["Text 3","#70675E"]],
+"Semantic":[["Success dark","#34D399"],["Success light","#047857"]]};
+document.getElementById('o').innerHTML=Object.entries(P).map(([k,v])=>`<h2>${k}</h2><div class=g>`+v.map(([n,h])=>`<div class=s><i style="background:${h}"></i><b>${n}</b><span>${h}</span></div>`).join('')+'</div>').join('');
+</script></body></html>

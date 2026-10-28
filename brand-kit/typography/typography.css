@@ -1,0 +1,17 @@
+/* Brand typography. Fonts in ./fonts (SIL OFL). Web: use the Google Fonts import or @font-face below. */
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap');
+
+@font-face { font-family: 'Sora'; src: url('./fonts/Sora-Variable.ttf'); font-weight: 100 800; }
+@font-face { font-family: 'Inter'; src: url('./fonts/Inter-Variable.ttf'); font-weight: 100 900; }
+@font-face { font-family: 'IBM Plex Mono'; src: url('./fonts/IBMPlexMono-Regular.ttf'); font-weight: 400; }
+@font-face { font-family: 'IBM Plex Mono'; src: url('./fonts/IBMPlexMono-Medium.ttf'); font-weight: 500; }
+
+:root {
+  --font-display: 'Sora', 'Inter', system-ui, sans-serif;
+  --font-body: 'Inter', system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}
+h1,h2,h3,.display { font-family: var(--font-display); font-weight: 700; letter-spacing: -0.02em; line-height: 1.1; }
+body, p { font-family: var(--font-body); line-height: 1.6; }
+code, .label, .eyebrow { font-family: var(--font-mono); }
+.eyebrow { font-size: .75rem; text-transform: uppercase; letter-spacing: .14em; }

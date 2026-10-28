@@ -1,0 +1,21 @@
+/* CodesLytic brand tokens. Mirrors src/app/globals.css of the website. */
+:root, [data-theme="dark"] {
+  --cl-bg: #1e1a15; --cl-void: #0c0805; --cl-elevated: #28231e;
+  --cl-surface: #15110c; --cl-surface-2: #211c17;
+  --cl-border: #423c35; --cl-border-strong: #69625b;
+  --cl-text: #fcfaf7; --cl-text-2: #b7aea4; --cl-text-3: #92897f;
+  --cl-orange: #fea849; --cl-orange-text: #fea849; --cl-orange-deep: #7e4a03;
+  --cl-blue: #6dadff; --cl-blue-text: #268bfc;
+  --cl-on-orange: #15110d; --cl-good: #34d399;
+  --cl-brand-gradient: linear-gradient(135deg, #fea849 0%, #6dadff 100%);
+}
+[data-theme="light"] {
+  --cl-bg: #fffdfb; --cl-void: #f9f2eb; --cl-elevated: #f2ece4;
+  --cl-surface: #fcf6ee; --cl-surface-2: #ede7df;
+  --cl-border: #d9d3cc; --cl-border-strong: #8b857f;
+  --cl-text: #110c08; --cl-text-2: #524a41; --cl-text-3: #70675e;
+  --cl-orange: #fea849; --cl-orange-text: #975a05; --cl-orange-deep: #7e4a03;
+  --cl-blue: #0278e7; --cl-blue-text: #0267c7;
+  --cl-on-orange: #15110d; --cl-good: #047857;
+  --cl-brand-gradient: linear-gradient(135deg, #fea849 0%, #0278e7 100%);
+}

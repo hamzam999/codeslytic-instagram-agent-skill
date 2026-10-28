@@ -1,0 +1,16 @@
+/* Tailwind v4: paste into globals.css after `@import "tailwindcss";` */
+@theme {
+  --color-cl-orange: #fea849;
+  --color-cl-orange-deep: #7e4a03;
+  --color-cl-blue: #6dadff;
+  --color-cl-blue-deep: #0278e7;
+  --color-cl-void: #0c0805;
+  --color-cl-dark: #1e1a15;
+  --color-cl-surface: #15110c;
+  --color-cl-border: #423c35;
+  --color-cl-cream: #fffdfb;
+  --color-cl-ink: #110c08;
+  --font-display: 'Sora', 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-body: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'IBM Plex Mono', ui-monospace, monospace;
+}

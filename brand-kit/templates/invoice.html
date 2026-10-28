@@ -1,0 +1,14 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Invoice</title><link rel="stylesheet" href="../colors/tokens.css"><link rel="stylesheet" href="../typography/typography.css">
+<style>@page{size:A4;margin:0}body{margin:0;background:#ddd;font-size:13px}.p{width:210mm;min-height:297mm;margin:auto;background:#fffdfb;color:#110c08;padding:16mm;box-sizing:border-box;position:relative}
+.top{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:4px solid #fea849;padding-bottom:10mm}.top img{height:46px}h1{font-size:30px;margin:0;text-align:right}.top small{display:block;text-align:right;color:#524a41}
+.meta{display:grid;grid-template-columns:1fr 1fr;gap:10mm;margin:10mm 0}.meta h4{margin:0 0 4px;font:500 11px var(--font-mono);text-transform:uppercase;letter-spacing:.12em;color:#975a05}
+table{width:100%;border-collapse:collapse}th{background:#110c08;color:#fcfaf7;text-align:left;padding:8px 10px;font-weight:600}td{padding:10px;border-bottom:1px solid #d9d3cc}td.r,th.r{text-align:right}
+.tot{margin-left:auto;width:70mm;margin-top:6mm}.tot div{display:flex;justify-content:space-between;padding:4px 0}.tot .g{border-top:2px solid #110c08;font:700 16px var(--font-display);color:#0267c7;padding-top:8px}
+.foot{position:absolute;left:16mm;right:16mm;bottom:12mm;border-top:1px solid #d9d3cc;padding-top:4mm;color:#70675e;font-size:11px;display:flex;justify-content:space-between}</style></head><body>
+<div class="p"><div class="top"><img src="../logos/primary/logo-horizontal.png" alt="CodesLytic"><div><h1>INVOICE</h1><small>No. CL-2026-001<br>Date: DD Mon YYYY · Due: DD Mon YYYY</small></div></div>
+<div class="meta"><div><h4>From</h4>CodesLytic<br>[Registered address]<br>info@codeslytic.com<br>GSTIN / Tax ID: [___]</div><div><h4>Bill to</h4>[Client name]<br>[Client address]<br>[Client GSTIN / Tax ID]</div></div>
+<table><tr><th>Description</th><th class="r">Qty</th><th class="r">Rate</th><th class="r">Amount</th></tr>
+<tr><td>Service / milestone description</td><td class="r">1</td><td class="r">0.00</td><td class="r">0.00</td></tr></table>
+<div class="tot"><div><span>Subtotal</span><span>0.00</span></div><div><span>Tax (18%)</span><span>0.00</span></div><div class="g"><span>Total</span><span>0.00</span></div></div>
+<p style="margin-top:12mm"><b>Payment details</b><br>Bank: [___] · A/C: [___] · IFSC/SWIFT: [___]<br>Terms: payable within 15 days. Late fee as per agreement.</p>
+<div class="foot"><span>codeslytic.com · info@codeslytic.com</span><span>Engineer. Transform. Scale.</span></div></div></body></html>

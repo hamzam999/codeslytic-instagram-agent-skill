@@ -1,0 +1,67 @@
+# CodesLytic Technologies
+
+> CodesLytic Technologies is an enterprise engineering and digital transformation partner. We design and build enterprise software, ERP platforms, web and mobile platforms, cloud infrastructure, data engineering pipelines, and AI/LLM integrations for manufacturing, finance, retail and technology businesses.
+
+CodesLytic operates as an engineering partner, not a marketing agency: every engagement is scoped, architected and delivered by the team that maintains it in production.
+
+## Services
+
+### Engineering & Platforms
+
+- [Enterprise Software Development](https://codeslytic.com/services/enterprise-software): Custom business applications engineered for scale, security and long-term maintainability.
+- [Web Development](https://codeslytic.com/services/web-development): Shopify stores, WordPress builds, and custom React/Next.js platforms  built for performance and conversion.
+- [App Development](https://codeslytic.com/services/app-development): Cross-platform mobile apps for iOS and Android from a single unified codebase.
+- [ERP Development & Modernization](https://codeslytic.com/services/erp): Custom ERP systems that streamline manufacturing, operations and business processes.
+
+### Database & Data Engineering
+
+- [Database Migration Services](https://codeslytic.com/services/database-migration): End-to-end migration of legacy databases (Oracle, on-prem SQL) to PostgreSQL with zero/minimal downtime.
+- [PostgreSQL Database Administration & Optimization](https://codeslytic.com/services/postgres-dba-optimization): Ongoing or specialized DBA engineering to guarantee high availability, performance, and stability.
+- [Cloud Data Warehouse Design & Build (AWS)](https://codeslytic.com/services/cloud-data-warehouse): Architecting scalable AWS Redshift data warehouses and modern S3 data lakehouses.
+- [ETL Pipeline Development & Automation](https://codeslytic.com/services/etl-pipeline-development): Building robust, automated Apache Airflow data pipelines for reliable data refresh workflows.
+- [Data Lake Architecture & Migration](https://codeslytic.com/services/data-lake-architecture): Architecting scalable data lakes and seamless cross-region / cloud data lake migrations.
+- [Cross-Cloud Migration (Azure ↔ AWS)](https://codeslytic.com/services/cross-cloud-migration): Migrating data warehouse environments and pipelines between cloud providers.
+- [Analytics & Business Intelligence](https://codeslytic.com/services/analytics-bi): Transform scattered enterprise data into live interactive BI dashboards.
+
+### AI & Automation
+
+- [LLM Integration](https://codeslytic.com/services/llm-integration): Embed Large Language Models into your software products, grounded in your business logic.
+- [RAG (Retrieval-Augmented Generation)](https://codeslytic.com/services/rag): Ground LLM answers in your internal documents and datasets with citation accuracy.
+- [AI Chatbots](https://codeslytic.com/services/ai-chatbots): Production chatbots connected to your enterprise databases  not just generic chat widgets.
+- [Workflow Automation](https://codeslytic.com/services/workflow-automation): Automate repetitive operational busywork across your existing software ecosystem.
+
+### Cloud & Operations
+
+- [Cloud Infrastructure & DevOps](https://codeslytic.com/services/cloud-devops): Reliable, automated cloud infrastructure built for high-concurrency enterprise workloads.
+- [Performance Marketing](https://codeslytic.com/services/performance-marketing): Data-driven paid acquisition and conversion rate optimization for e-commerce & D2C.
+- [Managed Technology Services](https://codeslytic.com/services/managed-services): 24x7 technical partnership, infrastructure monitoring, and proactive database DBA support.
+
+## Case Studies
+
+- [Enterprise Oracle → PostgreSQL Migration](https://codeslytic.com/case-studies/oracle-to-postgresql-migration): Migrated mission-critical Oracle databases to PostgreSQL with zero downtime, converting complex PL/SQL stored procedures and cutting database licensing costs by 60%.
+- [Cross-Region Data Lake Migration & Airflow Automation](https://codeslytic.com/case-studies/cross-region-data-lake-migration): Migrated full data lake ecosystem across AWS cloud regions while implementing Apache Airflow DAGs, boosting pipeline turnaround efficiency by 50%.
+- [Greenfield AWS Redshift Data Warehouse Build](https://codeslytic.com/case-studies/aws-data-warehouse-build): Designed and built an enterprise AWS Redshift data warehouse from scratch with PySpark/Sqoop pipelines, unifying disparate operational data into sub-second BI dashboards.
+- [Azure to AWS Data Warehouse & Pipeline Migration](https://codeslytic.com/case-studies/azure-to-aws-migration): Re-engineered Azure Synapse and Data Factory workloads into AWS Redshift and Apache Airflow, reducing cloud compute spend by 25%.
+- [ERP & CRM Manufacturing Platform](https://codeslytic.com/case-studies/erp-crm-platform): Unified ERP and CRM platform covering production planning, inventory ledger, BOM workflows, and legacy system modernization.
+- [Shopify Enterprise Commerce Storefront](https://codeslytic.com/case-studies/shopify-enterprise-commerce): Scalable Shopify Plus storefronts featuring custom Checkout Extensions, Shopify Functions, and multi-currency international routing.
+- [Token Launchpad Platform](https://codeslytic.com/case-studies/token-launchpad-platform): Enterprise launchpad supporting automated token sales, KYC investor onboarding, and web3 wallet integrations.
+- [Enterprise Business Intelligence Platform](https://codeslytic.com/case-studies/business-intelligence-platform): Executive dashboards consolidating financial, operational, and sales metrics into a real-time reporting layer.
+- [Automated Cloud Infrastructure Platform](https://codeslytic.com/case-studies/cloud-infrastructure-platform): Containerized enterprise workloads with automated IaC Terraform deployment pipelines and 24x7 Prometheus monitoring.
+- [Cross-Chain NFT Marketplace](https://codeslytic.com/case-studies/cross-chain-nft-marketplace): Multi-chain marketplace with seamless wallet authentication, gas-optimized smart contract interaction, and asset indexing.
+- [Nighat Ahmad Official Storefront](https://codeslytic.com/case-studies/nighat-ahmad-official): Premium Shopify storefront built for high-intent browsing, seasonal campaign rollouts, and frictionless multi-currency checkout.
+- [Lammle's Western Wear Omnichannel Commerce](https://codeslytic.com/case-studies/lammles-western-wear): High-SKU Shopify storefront with structured navigation, centralized event tracking, and lifecycle marketing automation.
+- [Slurvo B2B Manufacturing Export Site](https://codeslytic.com/case-studies/slurvo): Content-forward Next.js export website built to convert overseas commercial buyers into qualified manufacturing inquiries.
+- [WanHam Leathers Industrial Export Platform](https://codeslytic.com/case-studies/wanham-leathers): Next.js export platform with structured product storytelling and a contact-first conversion path for global buyers.
+- [Sedef Anatolia Fragrance Commerce](https://codeslytic.com/case-studies/sedef-anatolia): Story-led Shopify commerce experience balancing premium brand narrative with promotion-ready, conversion-focused browsing.
+
+## Company & Direct Inquiries
+
+- [Services & Specializations](https://codeslytic.com/services): Explore 4 service categories and detailed technical methodologies.
+- [Case Studies](https://codeslytic.com/case-studies): Filterable list of production systems delivered across industries.
+- [Contact](https://codeslytic.com/contact): Submit technical queries to our engineering team.
+- [Direct WhatsApp Support](https://wa.me/919565555541): Instant engineering inquiries via WhatsApp (+919565555541).
+- Email: info@codeslytic.com
+
+## Optional
+
+- [Full site content](https://codeslytic.com/llms-full.txt): Extended version of this file with complete service and case study descriptions.

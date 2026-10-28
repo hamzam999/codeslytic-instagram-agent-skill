@@ -1,0 +1,959 @@
+# CodesLytic Technologies — Full Site Content
+
+> CodesLytic Technologies is an enterprise engineering and digital transformation partner. We design and build enterprise software, ERP platforms, web and mobile platforms, cloud infrastructure, data engineering pipelines, and AI/LLM integrations for manufacturing, finance, retail and technology businesses.
+
+CodesLytic operates as an engineering partner, not a marketing agency: every engagement is scoped, architected and delivered by the team that maintains it in production.
+
+---
+
+## Services
+
+### Category: Engineering & Platforms
+URL: https://codeslytic.com/services/category/engineering-platforms
+Custom enterprise applications, web platforms, mobile apps, and ERP systems engineered for scale.
+
+#### Enterprise Software Development
+URL: https://codeslytic.com/services/enterprise-software
+Custom business applications engineered for scale, security and long-term maintainability.
+
+We design and build internal platforms, customer portals, admin systems and multi-tenant SaaS products tailored to how your business actually operates  not a generic template stretched to fit.
+
+Used by:
+- Enterprises with complex internal business workflows and legacy tools
+- SaaS companies scaling a multi-tenant application infrastructure
+- Operations & finance teams seeking to replace manual spreadsheet processes
+- Organizations consolidating fragmented software tools into a unified platform
+
+Process:
+1. Discovery workshop to map current operational workflows and system constraints
+2. System architecture design and modular tech stack selection
+3. Iterative delivery through staging environments with weekly client checkpoints
+4. Security audit and rigorous code review before any production release
+5. Production rollout with proactive monitoring and dedicated support handover
+
+Typical outcome: 100% custom workflows built for enterprise scale
+Stack: React, Next.js, TypeScript, Node.js, NestJS, PostgreSQL
+
+#### Web Development
+URL: https://codeslytic.com/services/web-development
+Shopify stores, WordPress builds, and custom React/Next.js platforms  built for performance and conversion.
+
+From Shopify OS 2.0 storefronts with custom Checkout Extensions to WordPress builds and fully custom React/Next.js platforms, we build fast, maintainable websites on the right platform for your business.
+
+Used by:
+- D2C and fashion retail brands seeking high-converting e-commerce storefronts
+- B2B exporters and manufacturers requiring global product catalog showcases
+- Corporate organizations building modern, SEO-optimized web presences
+- Multi-brand commerce groups needing centralized website architecture
+
+Process:
+1. Audit current web stack, traffic patterns, conversion funnels, and business goals
+2. Select optimal platform  Shopify OS 2.0, WordPress, or custom Next.js
+3. Build with platform-native tools (Liquid, Shopify Functions) or React/Next.js
+4. Optimize for Core Web Vitals, mobile responsiveness, and technical SEO
+5. Launch smoothly and continuously iterate based on analytics data
+
+Typical outcome: Sub-second load times & conversion rate optimization
+Stack: Shopify OS 2.0, Liquid, Shopify Functions, WordPress, React, Next.js
+
+#### App Development
+URL: https://codeslytic.com/services/app-development
+Cross-platform mobile apps for iOS and Android from a single unified codebase.
+
+We build React Native and Flutter apps that ship fast without compromising quality  delivering native performance where it matters and shared codebase efficiency everywhere else.
+
+Used by:
+- Consumer mobile platforms and multi-vendor marketplace applications
+- Booking, delivery, and service appointment mobile platforms
+- Internal field staff or logistics management mobile applications
+- Companion mobile apps expanding an existing web application SaaS ecosystem
+
+Process:
+1. Define core user journeys, target device features, and design prototypes
+2. Select React Native or Flutter framework based on performance needs
+3. Integrate native modules for camera, payments, push notifications, and geolocation
+4. Manage App Store & Google Play submission, compliance, and approval
+5. Set up crash reporting, analytics, and post-launch maintenance workflows
+
+Typical outcome: Single codebase powering iOS & Android apps
+Stack: React Native, Flutter, Expo, Firebase, REST / GraphQL APIs
+
+#### ERP Development & Modernization
+URL: https://codeslytic.com/services/erp
+Custom ERP systems that streamline manufacturing, operations and business processes.
+
+We implement, customize and modernize ERP/Frappe deployments for production planning, inventory, procurement and manufacturing workflows  configured to match how your business runs.
+
+Used by:
+- Manufacturing and production plants requiring BOM & job card automation
+- Distribution, warehouse, and logistics management operations
+- Multi-location retail chains needing inventory synchronization
+- Service and trade businesses outgrowing legacy accounting software
+
+Process:
+1. Operational process audit across production, inventory, and procurement
+2. Module scoping  BOM, job cards, stock ledger, purchasing, and invoicing
+3. ERP/Frappe customization, workflow scripting, and custom UI development
+4. Legacy data cleaning, data migration, and role-based access control setup
+5. Phased go-live department by department with hands-on staff training
+
+Typical outcome: Streamlined inventory, BOM & shop-floor operations
+Stack: CodesLytic ERP, Python, MariaDB, Docker
+
+### Category: Database & Data Engineering
+URL: https://codeslytic.com/services/category/database-data-engineering
+Legacy database migrations, PostgreSQL DBA, AWS Redshift data warehouses, and Apache Airflow ETL automation.
+
+#### Database Migration Services
+URL: https://codeslytic.com/services/database-migration
+End-to-end migration of legacy databases (Oracle, on-prem SQL) to PostgreSQL with zero/minimal downtime.
+
+We provide complete database migration engineeringhandling schema conversion, complex PL/SQL re-engineering, and post-migration performance optimization while preserving complete data integrity and achieving typical 40-60% cost reductions.
+
+Used by:
+- Enterprise systems moving from Oracle or on-prem SQL Server to PostgreSQL
+- Organizations aiming to reduce database licensing and infrastructure costs by 40-60%
+- Mission-critical platforms requiring zero or near-zero downtime cutover strategies
+- Complex database architectures with heavy stored procedures and custom trigger logic
+
+Process:
+1. Automated and manual schema analysis, data type mapping, and constraint translation
+2. PL/SQL to PostgreSQL PL/pgSQL logic re-engineering and automated unit testing
+3. Parallel CDC / replication pipeline setup for zero or minimal downtime cutover
+4. Post-migration query performance tuning, index optimization, and connection pooling
+5. Production failover verification and automated rollback contingency validation
+
+Typical outcome: 40-60% reduction in database licensing & infrastructure costs
+Stack: Oracle, PostgreSQL, PL/SQL, PL/pgSQL, AWS DMS, pgloader
+
+#### PostgreSQL Database Administration & Optimization
+URL: https://codeslytic.com/services/postgres-dba-optimization
+Ongoing or specialized DBA engineering to guarantee high availability, performance, and stability.
+
+We manage, optimize, and secure production PostgreSQL clustersfixing replication latency, optimizing slow queries, and architecting fault-tolerant database topologies for mission-critical applications.
+
+Used by:
+- High-traffic production applications facing database lock contention or query bottlenecks
+- Enterprise systems requiring 24/7 uptime, automated backups, and HA streaming replication
+- Companies seeking expert PostgreSQL DBA support without full-time in-house overhead
+- Databases needing comprehensive query optimization, index refactoring, and health audits
+
+Process:
+1. In-depth query plan analysis (EXPLAIN ANALYZE) and index structure optimization
+2. Streaming replication setup, failover testing (Patroni / PgBouncer), and monitoring
+3. Database parameter tuning (shared_buffers, work_mem, autovacuum parameters)
+4. Comprehensive security, role-based access, and SSL/TLS encryption audit
+5. Proactive health checks, lock escalation monitoring, and automated alert rules
+
+Typical outcome: Sub-second query response times & 99.99% database uptime
+Stack: PostgreSQL, PgBouncer, Patroni, Prometheus, Grafana, Linux
+
+#### Cloud Data Warehouse Design & Build (AWS)
+URL: https://codeslytic.com/services/cloud-data-warehouse
+Architecting scalable AWS Redshift data warehouses and modern S3 data lakehouses.
+
+We design and build centralized cloud data warehouses on AWS Redshift from scratch or modernize existing ones, creating robust data marts, fact/dimension table schemas, and unified reporting layers.
+
+Used by:
+- Companies consolidating disparate operational data sources into a single source of truth
+- Organizations scaling past operational DB limits for executive reporting & analytics
+- Finance & operations teams needing sub-second cross-departmental query results
+- Businesses building or modernizing an AWS-native cloud data stack
+
+Process:
+1. Redshift cluster architecture, distribution keys, and sort keys design
+2. Multi-source data ingestion using PySpark, Apache Sqoop, and AWS Glue
+3. S3-based data lake integration with Redshift Spectrum and AWS Lake Formation
+4. Dimensional modeling (Star & Snowflake schemas) for business data marts
+5. Unified reporting view creation for BI tools like QuickSight and Power BI
+
+Typical outcome: 100% data consolidation & sub-second BI query speed
+Stack: AWS Redshift, AWS S3, PySpark, Apache Sqoop, AWS Glue, AWS Lake Formation, QuickSight
+
+#### ETL Pipeline Development & Automation
+URL: https://codeslytic.com/services/etl-pipeline-development
+Building robust, automated Apache Airflow data pipelines for reliable data refresh workflows.
+
+We design, orchestrate, and modernize ETL/ELT pipelines to move data smoothly across systems without manual effort, improving pipeline turnaround and processing efficiency by 30-50%.
+
+Used by:
+- Organizations struggling with fragile, manual, or failing data refresh scripts
+- Companies modernizing legacy ETL jobs into cloud-native, DAG-based architectures
+- Teams requiring automated scheduled data orchestration with real-time alerting
+- Data engineering teams scaling pipeline throughput and operational efficiency
+
+Process:
+1. Apache Airflow DAG design with modular operators and dynamic scheduling
+2. Re-engineering legacy SSIS/Informatica/cron scripts into scalable cloud pipelines
+3. Data validation, schema enforcement, and error handling at every pipeline stage
+4. Automated retry mechanisms, SLA monitoring, and alerting (Slack/PagerDuty)
+5. Continuous pipeline optimization for faster data turnaround
+
+Typical outcome: 30-50% improvement in pipeline efficiency & turnaround
+Stack: Apache Airflow, Python, PySpark, AWS Glue, SQL, Docker, Git
+
+#### Data Lake Architecture & Migration
+URL: https://codeslytic.com/services/data-lake-architecture
+Architecting scalable data lakes and seamless cross-region / cloud data lake migrations.
+
+We build and migrate Hadoop and AWS-based data lakes across regions or hybrid environments with zero data loss, enabling concurrent refresh architecture for faster analytics.
+
+Used by:
+- Enterprises managing massive volumes of structured and un-structured data
+- Organizations migrating on-premises Hadoop clusters to cloud-native S3 data lakes
+- Multi-region operations needing localized low-latency data access
+- Businesses seeking 50% throughput improvements via concurrent refresh workflows
+
+Process:
+1. Data lake layout design using open columnar formats (Parquet, ORC)
+2. On-premise (Hadoop/Hive) to cloud-native (AWS S3/Glue) migration mapping
+3. Cross-region data replication and bandwidth-optimized transfer pipelines
+4. Implementing concurrent refresh architecture for continuous dataset updates
+5. Governance, fine-grained access control, and metadata cataloging via Lake Formation
+
+Typical outcome: Zero data-loss migration & concurrent data refresh
+Stack: Hadoop, Apache Hive, AWS S3, AWS Glue, AWS Lake Formation, PySpark, EMR
+
+#### Cross-Cloud Migration (Azure ↔ AWS)
+URL: https://codeslytic.com/services/cross-cloud-migration
+Migrating data warehouse environments and pipelines between cloud providers.
+
+We evaluate, plan, and execute seamless migrations between Azure and AWS, rewriting SQL and ETL workflows for target platforms and optimizing compute spend by 25%+ post-migration.
+
+Used by:
+- Enterprises standardizing on AWS or migrating away from Azure infrastructure
+- Organizations seeking to reduce cloud compute and data warehousing costs by 25%+
+- Companies consolidating multi-cloud complexity into a single efficient platform
+- Teams needing expert migration of Synapse/Data Factory workloads to AWS Redshift/Airflow
+
+Process:
+1. Comprehensive environment assessment and dependency mapping across clouds
+2. Target platform schema, SQL script, and ETL logic re-engineering
+3. Phased data transfer using secure cloud-native migration tools
+4. Post-migration compute right-sizing, auto-scaling, and query cost optimization
+5. Validation of data parity, security compliance, and user access roles
+
+Typical outcome: 25%+ reduction in cloud compute spend
+Stack: AWS Redshift, Azure Data Factory, Apache Airflow, Python, SQL, Terraform
+
+#### Analytics & Business Intelligence
+URL: https://codeslytic.com/services/analytics-bi
+Transform scattered enterprise data into live interactive BI dashboards.
+
+We build dashboards and reporting layers directly connected to your operational data warehouse  enabling automated, self-serve analytics for decision makers.
+
+Used by:
+- Executive leadership teams needing a unified reporting source of truth
+- Operations managers tracking real-time KPI metrics and SLA targets
+- Finance and growth teams building automated financial models and forecasts
+
+Process:
+1. Define key performance indicators (KPIs) with business stakeholders
+2. Connect, clean, and structure underlying warehouse tables for BI tools
+3. Build intuitive dashboards with interactive drill-down capabilities
+4. Configure automated email/Slack report delivery schedules
+5. Train internal teams for self-serve ad-hoc data exploration
+
+Typical outcome: Single source of truth for executive metrics
+Stack: Power BI, Metabase, Superset, SQL, Python
+
+### Category: AI & Automation
+URL: https://codeslytic.com/services/category/ai-automation
+Production LLM integrations, RAG search pipelines over enterprise data, conversational AI chatbots, and workflow automation.
+
+#### LLM Integration
+URL: https://codeslytic.com/services/llm-integration
+Embed Large Language Models into your software products, grounded in your business logic.
+
+We integrate LLMs into production software for smart assistants, document summarization, entity extraction, and automated decision support  with guardrails and cost controls.
+
+Used by:
+- SaaS products embedding intelligent AI copilots and automated features
+- Internal enterprise productivity and knowledge management platforms
+- Customer support teams seeking AI-driven response drafting
+
+Process:
+1. Identify high-value operational use cases for LLM automation
+2. Evaluate models (Claude, GPT, open-source) against proprietary prompts & data
+3. Integrate robust API wrappers with structured JSON outputs and fallback mechanisms
+4. Implement caching, token optimization, and cost safeguards
+5. Monitor response quality, latency, and drift in live production environments
+
+Typical outcome: Production-ready AI copilot with strict guardrails
+Stack: Claude, OpenAI, LangChain, Python, Node.js
+
+#### RAG (Retrieval-Augmented Generation)
+URL: https://codeslytic.com/services/rag
+Ground LLM answers in your internal documents and datasets with citation accuracy.
+
+We build vector retrieval pipelines over your internal knowledge bases, technical manuals, and policy documents so AI models answer accurately from your real data without hallucination.
+
+Used by:
+- Enterprise knowledge repositories and internal documentation search
+- Customer support helpdesks needing instant verified document retrieval
+- Legal, compliance, and medical policy search engines
+
+Process:
+1. Design document parsing, chunking, and metadata tagging pipeline
+2. Configure vector embeddings and high-performance vector databases (pgvector/Pinecone)
+3. Implement hybrid lexical & vector search with reranking algorithms
+4. Synthesize answers with direct inline source document citations
+5. Evaluate retrieval precision against real employee user queries
+
+Typical outcome: Accurate AI search grounded in company data
+Stack: LangChain, pgvector, Pinecone, Claude, Python
+
+#### AI Chatbots
+URL: https://codeslytic.com/services/ai-chatbots
+Production chatbots connected to your enterprise databases  not just generic chat widgets.
+
+We build intelligent customer service, sales lead qualification, and internal ops chatbots connected to your live business databases with seamless human agent handoffs.
+
+Used by:
+- E-commerce stores automating order status and customer service inquiries
+- SaaS platforms automating user onboarding and technical support
+- Sales organizations automating lead qualification and booking workflows
+
+Process:
+1. Map conversation flows, decision trees, and escalation triggers
+2. Connect chatbot logic to RAG knowledge bases and ERP/CRM APIs
+3. Implement safety guardrails, prompt filtering, and agent handoffs
+4. Deploy across Web, WhatsApp Business API, or Slack
+5. Track conversation analytics to continually optimize response resolution
+
+Typical outcome: 24/7 automated support with seamless human handoff
+Stack: Claude, LangChain, Node.js, WhatsApp Business API
+
+#### Workflow Automation
+URL: https://codeslytic.com/services/workflow-automation
+Automate repetitive operational busywork across your existing software ecosystem.
+
+We automate data synchronization, approval workflows, and transactional processing between ERPs, CRMs, e-commerce stores, and financial systems.
+
+Used by:
+- Operations and finance teams spending manual hours on data entry
+- E-commerce businesses automating order fulfillment and inventory updates
+- HR teams automating employee onboarding and document collection
+
+Process:
+1. Map end-to-end operational workflow, bottlenecks, and manual touches
+2. Design automated trigger-action integration pipelines using custom scripts or n8n
+3. Integrate securely with existing APIs (ERP, Shopify, CRM, Slack)
+4. Build error handling, automatic retries, and failure alerts
+5. Monitor execution logs to ensure 100% operational throughput
+
+Typical outcome: Elimination of manual repetitive operational busywork
+Stack: Python, Node.js, n8n, Shopify APIs, ERP APIs
+
+### Category: Cloud & Operations
+URL: https://codeslytic.com/services/category/cloud-managed-operations
+Containerized cloud infrastructure, DevOps pipelines, performance marketing tracking, and 24x7 managed tech services.
+
+#### Cloud Infrastructure & DevOps
+URL: https://codeslytic.com/services/cloud-devops
+Reliable, automated cloud infrastructure built for high-concurrency enterprise workloads.
+
+We containerize, automate, and secure production cloud environments on AWS  making software deployments automated, routine, and zero-risk.
+
+Used by:
+- Scaling SaaS platforms requiring auto-scaling infrastructure
+- Enterprises migrating legacy workloads off on-premise servers
+- Engineering teams building robust CI/CD automated deployment pipelines
+
+Process:
+1. Perform cloud architecture, security, and infrastructure cost audit
+2. Set up Infrastructure as Code (IaC) templates using Terraform
+3. Containerize application services using Docker & Kubernetes orchestration
+4. Build automated CI/CD deployment pipelines with automated test gates
+5. Implement 24/7 monitoring, log aggregation, and cost optimization
+
+Typical outcome: Zero-downtime CI/CD deployments & infrastructure as code
+Stack: AWS, Docker, Kubernetes, Terraform, GitHub Actions
+
+#### Performance Marketing
+URL: https://codeslytic.com/services/performance-marketing
+Data-driven paid acquisition and conversion rate optimization for e-commerce & D2C.
+
+We build server-side tracking, optimize conversion funnels, and run paid ad acquisition campaigns designed to tie marketing spend directly to measurable revenue.
+
+Used by:
+- D2C consumer brands scaling Meta & Google paid acquisition campaigns
+- Omnichannel retailers wanting accurate server-side conversion attribution
+- Subscription commerce brands seeking lower Customer Acquisition Costs (CAC)
+
+Process:
+1. Audit pixel infrastructure, GTM tracking, and GA4 attribution setup
+2. Implement Meta Conversions API (CAPI) and server-side tracking
+3. Optimize landing page conversion rates and checkout friction points
+4. Structure multi-channel ad campaigns and budget allocation
+5. Run continuous A/B creative, audience, and offer testing
+
+Typical outcome: Measurable ROAS improvement & tracking accuracy
+Stack: Meta Pixel, Google Tag Manager, GA4, Klaviyo, Shopify Analytics
+
+#### Managed Technology Services
+URL: https://codeslytic.com/services/managed-services
+24x7 technical partnership, infrastructure monitoring, and proactive database DBA support.
+
+We monitor, maintain, and support production servers, databases, and core software platforms  preventing incidents before they impact your business.
+
+Used by:
+- Growing companies lacking internal 24/7 DevOps or Database Administrators
+- Mission-critical platforms requiring strict uptime SLAs and rapid response
+- Businesses seeking predictable monthly technology support costs
+
+Process:
+1. Comprehensive system architecture, security, and performance audit
+2. Deploy Prometheus & Grafana monitoring dashboards with instant alerting
+3. Establish guaranteed response time SLAs and escalation workflows
+4. Perform proactive security patching, database backups, and optimization
+5. Deliver monthly infrastructure health reports and strategic guidance
+
+Typical outcome: Proactive incident response with strict SLAs
+Stack: Grafana, Prometheus, AWS, Docker, Linux
+
+---
+
+## Case Studies
+
+### Enterprise Oracle → PostgreSQL Migration
+URL: https://codeslytic.com/case-studies/oracle-to-postgresql-migration
+Industry: Enterprise Finance & Core Systems. Category: Database Migration. Timeframe: 2025 - 2026.
+Led zero-downtime migration of mission-critical Oracle databases to PostgreSQL, re-engineering complex PL/SQL stored procedures and cutting database licensing costs by 60%.
+
+Impact metrics:
+- Licensing Cost Savings: 60%. Reduction in annual database licensing and infrastructure spend
+- Downtime During Cutover: 0 mins. Zero operational downtime achieved via parallel CDC replication
+- Query Execution Speed: 3.5x. Average speedup across top 100 mission-critical database queries
+
+Overview: A leading enterprise migrated its core relational database system from Oracle to open-source PostgreSQL to eliminate astronomical licensing fees while upgrading query performance for high-concurrency workloads.
+Challenge: The legacy Oracle deployment relied heavily on deeply embedded PL/SQL packages, proprietary triggers, custom data types, and complex stored procedures. A naive migration risked broken application logic, data loss, and costly operational downtime during cutover.
+Solution: Designed a multi-phase migration strategy featuring automated schema translation, manual PL/SQL to PL/pgSQL re-engineering, comprehensive unit testing, and parallel CDC (Change Data Capture) replication using AWS DMS to guarantee zero-downtime failover.
+
+Architecture:
+- Schema & Data Type Mapping: Converted Oracle specific types (NUMBER, VARCHAR2, CLOB) to native PostgreSQL types (NUMERIC, TEXT, JSONB).
+- PL/SQL Re-Engineering: Translated 150+ PL/SQL procedures, packages, and triggers into optimized PostgreSQL PL/pgSQL functions.
+- Zero-Downtime CDC Replication: Configured AWS DMS (Data Migration Service) for continuous data synchronization prior to cutover.
+- Query & Index Tuning: Created targeted partial and GIN indexes and configured PgBouncer connection pooling for sub-millisecond query execution.
+
+Results:
+- Cut total database infrastructure & licensing costs by 60% annually.
+- Executed 100% data-verified production cutover with zero downtime.
+- Improved average transaction throughput by 35% under peak load.
+- Eliminated vendor lock-in, enabling deployment across flexible cloud environments.
+
+FAQs:
+- Q: How was zero downtime achieved during the Oracle to PostgreSQL migration?
+  A: Zero downtime was achieved by establishing continuous Change Data Capture (CDC) replication using AWS DMS between the live Oracle database and target PostgreSQL cluster. This allowed the application to cut over instantly with zero data loss or service interruption.
+- Q: How were Oracle PL/SQL stored procedures converted to PostgreSQL?
+  A: Legacy PL/SQL scripts were parsed and translated into PostgreSQL PL/pgSQL functions. Complex logic, autonomous transactions, and packages were modularized, refactored, and validated against an automated test suite to ensure exact behavioral parity.
+- Q: What financial impact did this database migration deliver?
+  A: The migration achieved a 60% reduction in annual database licensing and cloud infrastructure spend, paying back the project investment within 6 months.
+
+Stack: Oracle, PostgreSQL, PL/SQL, PL/pgSQL, AWS DMS, PgBouncer, Python
+
+### Cross-Region Data Lake Migration & Airflow Automation
+URL: https://codeslytic.com/case-studies/cross-region-data-lake-migration
+Industry: Global Logistics & Analytics. Category: Data Lake Engineering. Timeframe: 2023 - 2024.
+Migrated a full enterprise data lake ecosystem across AWS cloud regions while implementing Apache Airflow orchestration, boosting pipeline turnaround efficiency by 50%.
+
+Impact metrics:
+- Pipeline Turnaround: +50%. Improvement in data processing speed and workflow turnaround time
+- Data Volume Migrated: 500+ TB. Seamless multi-region object storage and catalog transfer with zero loss
+- Automated Workflows: 200+ DAGs. Production Apache Airflow DAGs orchestrating continuous data ingestion
+
+Overview: Migrated a multi-terabyte data lake ecosystem across cloud regions to optimize regional latency and compliance while replacing legacy cron/shell data scripts with automated Apache Airflow pipelines.
+Challenge: The existing data lake spanned hundreds of terabytes in AWS S3 and Hadoop, with fragmented ingestion scripts causing frequent pipeline failures, delayed reporting, and high cross-region data transfer costs.
+Solution: Architected a cross-region migration plan leveraging AWS S3 Cross-Region Replication (CRR) and AWS Lake Formation, paired with a complete modernization of ETL pipelines into containerized Apache Airflow DAGs with concurrent data refresh logic.
+
+Architecture:
+- Cross-Region Transfer: Synchronized S3 buckets across regions with bandwidth control and checksum validation.
+- Airflow Pipeline Modernization: Re-engineered legacy shell and Python scripts into modular Apache Airflow DAGs.
+- Concurrent Refresh Architecture: Implemented parallelized Spark batch jobs to update data lake partitions simultaneously.
+- Data Governance: Set up AWS Lake Formation for centralized access policy control and catalog management.
+
+Results:
+- Improved overall pipeline execution and data turnaround efficiency by 50%.
+- Reduced cross-region bandwidth overhead and cloud storage spend.
+- Achieved automated failure recovery, SLA tracking, and instant alerts for data operators.
+- Guaranteed compliance with multi-region data residency requirements.
+
+FAQs:
+- Q: How did Apache Airflow improve pipeline turnaround efficiency by 50%?
+  A: Apache Airflow replaced sequential, unmonitored cron jobs with dynamically orchestrated DAGs that run independent tasks concurrently, handle intelligent retries, and eliminate idle wait states between data dependencies.
+- Q: How was data integrity verified during the cross-region data lake migration?
+  A: Automated validation scripts computed cryptographic MD5/SHA-256 checksums and row counts across source and destination S3 partitions prior to switching active ingestion endpoints.
+
+Stack: Apache Airflow, AWS S3, Hadoop, PySpark, AWS Glue, AWS Lake Formation, Python
+
+### Greenfield AWS Redshift Data Warehouse Build
+URL: https://codeslytic.com/case-studies/aws-data-warehouse-build
+Industry: Enterprise Business Intelligence. Category: Data Warehousing. Timeframe: 2021 - 2023.
+Designed and built an enterprise AWS Redshift Data Warehouse from scratch, unifying disparate data streams into sub-second BI reporting dashboards.
+
+Impact metrics:
+- Data Source Integration: 100%. Unification of disparate ERP, CRM, and transactional SQL data sources
+- Query Execution Speed: <1 sec. Sub-second response time for complex executive BI queries
+- Reporting Automated: 24/7. Continuous, automated data refresh for executive decision making
+
+Overview: Built the organization's foundational cloud data warehouse on AWS Redshift, consolidating isolated data silos across ERPs, CRMs, and operational databases into a single, unified reporting platform.
+Challenge: Business leaders lacked a single source of truth; operational data was scattered across legacy databases, flat files, and third-party SaaS APIs, requiring manual spreadsheet consolidation that took days.
+Solution: Architected a modern AWS data lakehouse architectureusing PySpark and Apache Sqoop to ingest raw data into an S3 Data Lake, transformed via dbt/Airflow into dimensional star-schema data marts inside AWS Redshift.
+
+Architecture:
+- Ingestion Engine: Deployed PySpark and Sqoop jobs for high-throughput batch and incremental database extraction.
+- S3 Staging Lake: Established raw, cleaned, and curated S3 storage layers with Parquet columnar compression.
+- Redshift Data Marts: Modeled dimensional Fact and Dimension tables optimized with sort and distribution keys.
+- BI Integration: Connected AWS QuickSight and Power BI directly to Redshift for real-time executive reporting.
+
+Results:
+- Eliminated 100% of manual spreadsheet reporting efforts across finance and operations.
+- Delivered sub-second query response times for executive dashboards.
+- Created a central data governance model with role-based access security.
+- Enabled self-serve data analytics for business analysts across departments.
+
+FAQs:
+- Q: Why was AWS Redshift chosen for this greenfield data warehouse?
+  A: AWS Redshift was selected for its native integration with AWS S3, Redshift Spectrum capability for querying raw data lake files directly, exceptional petabyte-scale query performance, and cost-effective RA3 node scaling.
+- Q: How were disparate data sources unified into the data warehouse?
+  A: Automated ingestion scripts using PySpark and Apache Sqoop extracted schema data from relational databases and SaaS APIs into S3. Airflow DAGs then cleaned, normalized, and transformed the data into dimensional data marts inside Redshift.
+
+Stack: AWS Redshift, AWS S3, PySpark, Apache Sqoop, AWS Glue, Apache Airflow, QuickSight
+
+### Azure to AWS Data Warehouse & Pipeline Migration
+URL: https://codeslytic.com/case-studies/azure-to-aws-migration
+Industry: Multi-Cloud Enterprise. Category: Cloud Migration. Timeframe: 2021.
+Migrated Azure Synapse and Data Factory workloads to AWS Redshift and Apache Airflow, cutting compute spend by 25% while expanding processing capacity.
+
+Impact metrics:
+- Compute Cost Cut: 25%. Direct savings on monthly cloud data warehousing compute expenses
+- Migration Cutover Time: 1 Weekend. Flawless cutover with zero interruption to Monday morning operations
+- Pipeline Reliability: 99.9%. SLA compliance for daily executive reporting deliverables
+
+Overview: Executed a complete cross-cloud migration of enterprise data warehouse workloads from Microsoft Azure Synapse and Azure Data Factory to AWS Redshift and Apache Airflow.
+Challenge: High and unpredictable Azure Synapse compute licensing fees, paired with complex cross-cloud architecture, slowed down query performance and escalated IT operational budgets.
+Solution: Converted T-SQL scripts to Redshift PostgreSQL-compliant SQL, translated Azure Data Factory pipelines into Python-native Airflow DAGs, and migrated historical data directly to AWS S3 and Redshift.
+
+Architecture:
+- Code Translation: Converted Azure Synapse T-SQL stored procedures and views to AWS Redshift SQL.
+- Pipeline Modernization: Replaced Azure Data Factory pipelines with open-source Apache Airflow DAGs.
+- Data Transfer: Leveraged encrypted AWS Snowball / multi-part S3 upload for secure cross-cloud data transfer.
+- Cost Optimization: Configured AWS Redshift pause/resume and concurrency scaling to minimize idle compute fees.
+
+Results:
+- Reduced monthly cloud data warehousing compute spend by 25%.
+- Accelerated batch processing execution by 30%.
+- Streamlined operations by standardizing infrastructure on AWS.
+- Eliminated proprietary vendor lock-in by using open Airflow DAGs.
+
+FAQs:
+- Q: How was a 25% reduction in compute costs achieved during the Azure to AWS migration?
+  A: The 25% cost reduction was achieved by moving from Azure Synapse DWUs to AWS Redshift RA3 instances with decoupled compute and storage, alongside right-sizing node clusters and replacing proprietary Azure Data Factory fees with open-source Apache Airflow.
+- Q: Were T-SQL scripts fully compatible with AWS Redshift?
+  A: No, Azure Synapse T-SQL scripts required conversion for Redshift's PostgreSQL-based syntax. Functions, data types, and stored procedure logic were refactored and validated prior to deployment.
+
+Stack: AWS Redshift, Azure Synapse, Apache Airflow, Python, SQL, AWS S3
+
+### ERP & CRM Manufacturing Platform
+URL: https://codeslytic.com/case-studies/erp-crm-platform
+Industry: Manufacturing & Operations. Category: Enterprise Software. Timeframe: 2024.
+Unified ERP and CRM platform covering production planning, inventory tracking, BOM workflows, and legacy system modernization.
+
+Impact metrics:
+- Inventory Accuracy: 99.8%. Real-time ledger tracking across raw materials and finished goods
+- BOM Processing Speed: 5x. Faster creation and job-card assignment for production runs
+- Paperwork Eliminated: 100%. Digital shop-floor logging replacing paper job cards
+
+Overview: Implemented a custom ERP and CRM platform based on Frappe and Next.js for a multi-facility manufacturing company, replacing manual paper logs with real-time digital tracking.
+Challenge: The manufacturing client suffered from stock discrepancies, delayed job orders, and fragmented customer communications due to separate legacy accounting and warehouse spreadsheets.
+Solution: Customized CodesLytic ERP modules for Bill of Materials (BOM), work orders, purchasing, and stock entry, paired with a custom Next.js portal for customer order tracking and CRM management.
+
+Architecture:
+- BOM Engine: Configured multi-level Bill of Materials with automated scrap loss calculations.
+- Stock Ledger Integration: Real-time FIFO inventory valuation across multiple plant warehouses.
+- Custom Next.js Frontend: Responsive web portal for sales reps and customers to place and track custom orders.
+- Role-Based Access: Fine-grained security profiles for shop-floor operators, warehouse staff, and executives.
+
+Results:
+- Achieved 99.8% inventory ledger accuracy across all facilities.
+- Reduced order-to-production turnaround time by 60%.
+- Streamlined procurement with automated reorder level alerts.
+- Provided leadership with real-time gross margin analytics per production run.
+
+FAQs:
+- Q: How did the ERP platform improve manufacturing productivity?
+  A: By digitizing Bill of Materials (BOM) creation and job card generation, production teams eliminated manual data entry errors and gained instant visibility into material availability before starting a run.
+- Q: Is Frappe/CodesLytic ERP customizable for specific factory workflows?
+  A: Yes, Frappe's Python/MariaDB architecture allows full custom doctype development, automated workflow hooks, and custom React/Next.js frontend integrations tailored to exact shop-floor processes.
+
+Stack: CodesLytic ERP, Next.js, Node.js, Python, MariaDB, PostgreSQL
+
+### Shopify Enterprise Commerce Storefront
+URL: https://codeslytic.com/case-studies/shopify-enterprise-commerce
+Industry: Retail & Fashion. Category: E-commerce. Timeframe: 2024.
+Built scalable Shopify Plus storefronts with custom Checkout Extensions, Shopify Functions, and multi-currency international routing.
+
+Impact metrics:
+- Mobile Conversion: +40%. Increase in checkout conversion rates on mobile devices
+- Page Load Speed: 0.8s. Average page load time across global distribution locations
+- Checkout Customizations: 100% Native. Built using Shopify OS 2.0 and Checkout UI Extensions
+
+Overview: Engineered a high-performance Shopify Plus e-commerce storefront for a global retail brand, introducing customized Checkout UI extensions and automated localized currency routing.
+Challenge: The client's legacy store suffered from slow page loads, high checkout cart abandonment on mobile devices, and inadequate international localization.
+Solution: Rebuilt the storefront using Shopify OS 2.0, Liquid optimization, custom Shopify Functions for dynamic discount logic, and Checkout UI extensions for upsell prompts.
+
+Architecture:
+- Shopify OS 2.0 Architecture: Modular sections and blocks optimized for Core Web Vitals.
+- Checkout UI Extensions: Custom native checkout apps for post-purchase upsells and order notes.
+- Shopify Functions: Server-side Rust/WASM functions executing real-time cart pricing rules.
+- Global Localization: Multi-currency and multi-language routing with automatic IP detection.
+
+Results:
+- Boosted mobile conversion rates by 40% within the first month of launch.
+- Achieved sub-second page rendering speed globally.
+- Increased Average Order Value (AOV) by 18% through native checkout upsells.
+- Reduced cart abandonment by streamlining the checkout step.
+
+FAQs:
+- Q: Why use Shopify Functions over legacy Scripts?
+  A: Shopify Functions execute server-side via WebAssembly in under 5ms, ensuring 100% reliability during flash sales without impacting checkout load performance.
+- Q: How were custom checkout extensions integrated?
+  A: We built native Checkout UI Extensions using Shopify's App React framework, ensuring full compliance with Shopify Plus standards and seamless mobile rendering.
+
+Stack: Shopify OS 2.0, Liquid, Checkout Extensions, Shopify Functions, JavaScript
+
+### Token Launchpad Platform
+URL: https://codeslytic.com/case-studies/token-launchpad-platform
+Industry: Blockchain & Web3. Category: FinTech. Timeframe: 2023 - 2024.
+Developed an enterprise web3 launchpad supporting automated token sales, KYC investor onboarding, and multi-wallet integrations.
+
+Impact metrics:
+- Transaction Volume: $10M+. Total token sale value processed through smart contract logic
+- Wallet Support: 10+ Wallets. Seamless Wagmi/RainbowKit integration across major crypto wallets
+- Security Audits: 100% Clean. Zero vulnerabilities detected in production smart contract audits
+
+Overview: Built a secure, high-concurrency web3 token launchpad platform enabling crypto projects to conduct verified public and private token generation events.
+Challenge: Existing launchpad solutions lacked enterprise-grade KYC/AML compliance, suffered from RPC node connection timeouts during high-traffic token sales, and had complex UI friction.
+Solution: Architected a Next.js web application integrated with Wagmi, Ethers.js, automated SumSub KYC verification, and redundant RPC provider fallback clusters.
+
+Architecture:
+- Web3 Frontend: React/Next.js interface with stateful wallet session persistence.
+- Multi-RPC Fallback: Connected Alchemy, QuickNode, and Infura fallback nodes for zero-downtime minting.
+- KYC/AML Automation: Integrated API hooks for instant investor identity verification.
+- Smart Contract Hooks: Event listeners tracking token allocations, vesting schedules, and claims.
+
+Results:
+- Processed over $10M in token sales across multiple high-traffic launch events.
+- Handled over 50,000 concurrent wallet connections without downtime.
+- Achieved 100% compliance with international investor onboarding regulations.
+- Reduced user transaction failure rates to under 0.01%.
+
+FAQs:
+- Q: How were RPC node failures prevented during gas wars?
+  A: We implemented an RPC provider failover array using Wagmi fallback providers, automatically routing traffic to secondary nodes if primary latency exceeded 500ms.
+- Q: How is investor KYC handled on-chain?
+  A: KYC verification is completed off-chain via automated identity APIs, which issue cryptographically signed attestations that investors submit when calling smart contract buy functions.
+
+Stack: Next.js, TypeScript, Wagmi, Ethers.js, Tailwind CSS, Node.js
+
+### Enterprise Business Intelligence Platform
+URL: https://codeslytic.com/case-studies/business-intelligence-platform
+Industry: Enterprise. Category: Analytics. Timeframe: 2023.
+Built unified enterprise BI dashboards consolidating financial, operational, and sales metrics into a single reporting layer.
+
+Impact metrics:
+- Reporting Time Saved: 20 hrs/wk. Reduction in manual data assembly time for executive leadership
+- Data Sources Unified: 8 Sources. Centralized integration of ERP, CRM, billing, and web analytics
+- Dashboard Refresh: Real-time. Automated incremental data updates every 15 minutes
+
+Overview: Created a central Business Intelligence reporting layer connecting PostgreSQL operational databases to Power BI and custom web analytics dashboards.
+Challenge: Executive leadership spent hours manually pulling reports from 8 different software platforms, leading to delayed decision making and conflicting metric calculations across departments.
+Solution: Designed a centralized PostgreSQL reporting schema transformed via Python ETL scripts into pre-aggregated data marts, powering executive Power BI and web dashboards.
+
+Architecture:
+- ETL Pipeline: Scheduled Python scripts extracting operational metrics into a dedicated read-replica DB.
+- Dimensional Data Marts: Star-schema tables modeling MRR, customer churn, gross margin, and SLA compliance.
+- Power BI Dashboards: Interactive visual dashboards with role-based metric filtering.
+- Automated Alerting: Slack notifications triggered when key operational thresholds fluctuate.
+
+Results:
+- Saved leadership over 20 hours per week in manual report preparation.
+- Established a single, audited source of truth across all business units.
+- Accelerated monthly financial close timelines by 5 days.
+- Empowered department heads with self-serve filterable performance metrics.
+
+FAQs:
+- Q: How does the BI platform maintain sub-second query performance?
+  A: Data is pre-aggregated into dimensional data marts on a read-replica database, ensuring complex analytical queries do not lock or slow down live production transactional tables.
+- Q: Can business users create custom ad-hoc reports?
+  A: Yes, the platform exposes clean semantic models in Power BI and Metabase, allowing non-technical managers to build drag-and-drop custom reports safely.
+
+Stack: Power BI, PostgreSQL, Python, SQL, Metabase
+
+### Automated Cloud Infrastructure Platform
+URL: https://codeslytic.com/case-studies/cloud-infrastructure-platform
+Industry: Technology & SaaS. Category: Cloud Engineering. Timeframe: 2023 - 2024.
+Containerized enterprise workloads with automated IaC Terraform deployment pipelines and 24x7 Prometheus/Grafana monitoring.
+
+Impact metrics:
+- Infrastructure Uptime: 99.99%. Guaranteed SLA uptime across containerized production microservices
+- Deployment Speed: 10 mins. Automated CI/CD pipeline code push to production staging
+- Cloud Cost Savings: 30%. Reduction in monthly AWS compute spend via spot instance orchestration
+
+Overview: Migrated a scaling SaaS platform from manual EC2 deployments to an automated, containerized AWS EKS (Kubernetes) infrastructure managed with Terraform.
+Challenge: Manual server provisioning led to configuration drift, deployment outages, slow developer onboarding, and high idle cloud infrastructure expenses.
+Solution: Architected declarative Infrastructure as Code using Terraform, containerized microservices with Docker, deployed to AWS EKS, and built automated GitHub Actions CI/CD pipelines.
+
+Architecture:
+- Terraform IaC: Modular infrastructure code defining VPCs, subnets, EKS clusters, and IAM roles.
+- Kubernetes Deployment: EKS cluster with HPA (Horizontal Pod Autoscaler) and cluster autoscaling.
+- CI/CD Pipeline: GitHub Actions workflows with automated container image scanning and canary deployments.
+- Observability Stack: Prometheus metric collection paired with custom Grafana alert dashboards.
+
+Results:
+- Achieved 99.99% operational uptime across all production web services.
+- Reduced release deployment times from 2 hours to under 10 minutes.
+- Cut monthly AWS cloud spend by 30% using EC2 spot instance node groups.
+- Eliminated configuration drift across development, staging, and production environments.
+
+FAQs:
+- Q: How does cluster autoscaling optimize cloud costs?
+  A: AWS EKS cluster autoscaler adjusts the number of EC2 worker nodes dynamically based on active pod resource requests, scaling down idle nodes during off-peak hours.
+- Q: How are production deployments protected against broken builds?
+  A: CI/CD pipelines enforce automated linting, unit test coverage minimums, image security scanning, and canary deployment rollouts with instant automated rollbacks on error.
+
+Stack: AWS, Terraform, Docker, Kubernetes, EKS, GitHub Actions, Prometheus, Grafana
+
+### Cross-Chain NFT Marketplace
+URL: https://codeslytic.com/case-studies/cross-chain-nft-marketplace
+Industry: Blockchain. Category: Web3. Timeframe: 2022 - 2023.
+Multi-chain marketplace featuring non-custodial wallet authentication, gas-optimized smart contract interaction, and high-speed asset indexing.
+
+Impact metrics:
+- Indexing Speed: <500ms. Real-time block indexing for new mints and token transfers
+- Chains Supported: Ethereum & Polygon. Cross-chain asset browsing and checkout integration
+- Platform Uptime: 99.95%. Continuous marketplace availability during high-demand mints
+
+Overview: Engineered a high-speed cross-chain digital asset marketplace allowing users to trade, list, and auction NFTs across Ethereum and Polygon networks.
+Challenge: Public blockchain indexing APIs suffered from rate limits and high latency, causing stale marketplace listings and failed transaction confirmations during peak minting events.
+Solution: Built a custom Node.js and MongoDB block indexing engine that listens to EVM WebSocket events, paired with a lightweight React frontend.
+
+Architecture:
+- Custom EVM Indexer: Node.js worker threads consuming EVM logs to maintain low-latency asset state.
+- MongoDB Metadata Store: High-throughput document store caching NFT attributes, ownership, and sales history.
+- Web3 Wallet Integration: Support for MetaMask, WalletConnect, and Coinbase Wallet.
+- Gas Optimization: Optimized smart contract interaction logic to minimize gas overhead for buyers.
+
+Results:
+- Delivered sub-500ms metadata updates upon block confirmation.
+- Handled over 100,000 active user listings with zero indexer lag.
+- Reduced buyer gas fee overhead by 22% through batch contract calls.
+- Maintained 99.95% platform availability during major collection launches.
+
+FAQs:
+- Q: How does the custom block indexer handle blockchain reorgs?
+  A: The indexer maintains a 20-block rolling history buffer and automatically rolls back and re-indexes database state if a block reorganization is detected on-chain.
+- Q: How are IPFS metadata files cached for fast loading?
+  A: Original IPFS asset metadata and media are ingested, compressed, and served through a global CDN edge caching layer.
+
+Stack: React, Web3.js, Node.js, MongoDB, Express, IPFS, Tailwind CSS
+
+### Nighat Ahmad Official Storefront
+URL: https://codeslytic.com/case-studies/nighat-ahmad-official
+Industry: Fashion & Luxury Retail. Category: E-commerce. Timeframe: 2024.
+Premium Shopify storefront built for high-intent browsing, seasonal campaign rollouts, and frictionless international checkout.
+
+Impact metrics:
+- International Checkout: +65%. Growth in international order completion rate
+- Page Engagement: +45%. Increase in average session duration and product views
+- Mobile Speed Score: 92/100. Google PageSpeed Insights mobile performance rating
+
+Overview: Designed and developed an elegant Shopify OS 2.0 storefront for Nighat Ahmad Official, highlighting luxury fashion collections for global shoppers.
+Challenge: The previous website failed to communicate brand elegance, loaded slowly on mobile devices, and lacked multi-currency payment options for overseas buyers.
+Solution: Built a bespoke Shopify OS 2.0 theme featuring rich video banners, instant side-cart slideouts, localized currency switching, and Meta Pixel/GA4 server-side tracking.
+
+Architecture:
+- Bespoke Shopify Theme: Custom Liquid code optimized for high-resolution photography and fast rendering.
+- Server-Side Tracking: Meta Conversions API (CAPI) integrated via Google Tag Manager for accurate attribution.
+- Multi-Currency Checkout: Automatic price currency conversion based on visitor geolocation.
+- Frictionless Slide-Cart: AJAX cart drawer with dynamic progress bar for free shipping thresholds.
+
+Results:
+- Increased international checkout completion by 65%.
+- Achieved a 92/100 mobile Google PageSpeed score.
+- Elevated average session duration by 45%.
+- Streamlined campaign launches for seasonal bridal and pret collections.
+
+FAQs:
+- Q: How was high image quality balanced with fast mobile page speed?
+  A: Images are dynamically served in next-gen WebP format via Shopify's CDN with responsive srcset attributes matching exact user screen resolutions.
+- Q: How is server-side Meta pixel tracking implemented?
+  A: We routed client events through Google Tag Manager Server-Side containers, sending deduplicated Meta CAPI events directly to Meta's servers for 100% match accuracy.
+
+Stack: Shopify OS 2.0, Liquid, JavaScript, Meta Pixel, GA4, GTM
+
+### Lammle's Western Wear Omnichannel Commerce
+URL: https://codeslytic.com/case-studies/lammles-western-wear
+Industry: Omnichannel Retail. Category: E-commerce. Timeframe: 2023 - 2024.
+High-SKU Shopify storefront featuring structured multi-level navigation, centralized event tracking, and lifecycle marketing automation.
+
+Impact metrics:
+- SKU Catalog Managed: 20,000+. Seamless multi-variant product catalog synchronization
+- Email Revenue Share: 28%. Percentage of total e-commerce revenue driven via Klaviyo flows
+- Filter Response Time: <100ms. Instant collection faceted filtering speed
+
+Overview: Modernized the online commerce experience for Lammle's Western Wear, managing a massive catalog of 20,000+ SKUs across footwear, apparel, and western gear.
+Challenge: Managing thousands of complex product variants caused slow collection filtering, confusing site navigation, and fragmented customer lifecycle communications.
+Solution: Implemented algorithmic faceted collection search, structured mega-menus, and automated Klaviyo email/SMS customer journeys tied to Shopify purchase behavior.
+
+Architecture:
+- Algorithmic Collection Filtering: High-speed product tag and metafield collection filtering engine.
+- Mega-Menu Navigation: Multi-category drop-down menu structured for high-SKU inventory discovery.
+- Klaviyo Lifecycle Flows: Abandoned cart, browse abandonment, post-purchase, and win-back automation.
+- Centralized Analytics: GA4 e-commerce tracking measuring revenue per channel and product margin.
+
+Results:
+- Successfully organized and synchronized over 20,000 product SKUs.
+- Generated 28% of total monthly online revenue through automated Klaviyo email flows.
+- Accelerated collection page filter response speed to under 100ms.
+- Increased repeat purchase rate by 24% over 6 months.
+
+FAQs:
+- Q: How are 20,000+ product SKUs kept synchronized with physical store inventory?
+  A: Custom Shopify API middleware synchronizes inventory quantities between the client's physical retail POS system and online Shopify store every 5 minutes.
+- Q: What lifecycle email flows delivered the highest return?
+  A: The dynamic Browse Abandonment and Cart Recovery flowsfeaturing personalized product recommendationsgenerated the highest conversion return.
+
+Stack: Shopify OS 2.0, Liquid, GTM, GA4, Klaviyo, JavaScript
+
+### Slurvo B2B Manufacturing Export Site
+URL: https://codeslytic.com/case-studies/slurvo
+Industry: Manufacturing / B2B Export. Category: Web Development. Timeframe: 2024.
+Content-forward Next.js export website built to convert overseas commercial buyers into qualified manufacturing inquiries.
+
+Impact metrics:
+- B2B Lead Growth: 3.2x. Increase in qualified wholesale inquiry form submissions
+- Page Performance: 98/100. Desktop performance score on Google PageSpeed Insights
+- Organic Search Reach: +120%. Growth in non-branded commercial search traffic
+
+Overview: Built a content-focused B2B export website on Next.js for Slurvo, designed to capture global buyer trust and drive high-value manufacturing quote requests.
+Challenge: The client's previous static site looked outdated, failed to rank for global commercial keywords, and had low conversion rates on overseas buyer inquiry forms.
+Solution: Architected a modern Next.js 14 web application featuring structured product specification tables, downloadable catalog PDFs, interactive inquiry forms, and strict technical SEO.
+
+Architecture:
+- Next.js App Router: Server Side Rendering (SSR) for instant initial HTML delivery and search indexing.
+- Technical SEO Optimization: Structured schema markup for products, Organization JSON-LD, and XML sitemaps.
+- Interactive Inquiry Builder: Dynamic multi-step quote request form with file upload support for custom specs.
+- Responsive UI Components: Vanilla CSS & Tailwind components styled for enterprise B2B buyers.
+
+Results:
+- Increased qualified B2B inquiry submissions by 3.2x.
+- Achieved a 98/100 Google PageSpeed desktop performance score.
+- Expanded organic search traffic by 120% across key international target markets.
+- Shortened sales team lead response times through automated email alerts.
+
+FAQs:
+- Q: Why use Next.js SSR for a B2B export website?
+  A: Server-Side Rendering ensures every product specification page is rendered into static HTML instantly, allowing search engines to index technical content easily and delivering instant page loads to overseas visitors.
+- Q: How are high-value B2B lead submissions filtered?
+  A: The inquiry form includes multi-step qualification fields (company name, order volume, destination port) and automated spam filtering before delivering leads to the sales CRM.
+
+Stack: Next.js, React, TypeScript, Tailwind CSS, Node.js
+
+### WanHam Leathers Industrial Export Platform
+URL: https://codeslytic.com/case-studies/wanham-leathers
+Industry: Industrial Export. Category: Web Development. Timeframe: 2024.
+Next.js export platform featuring structured product storytelling and a contact-first conversion path for global industrial buyers.
+
+Impact metrics:
+- Form Conversion Rate: +85%. Increase in product detail page inquiry form conversion
+- Mobile Rendering: 100%. Optimized mobile view for global trade show visitors
+- Global Latency: <200ms. Edge CDN response time across North America, Europe & Asia
+
+Overview: Developed a modern industrial export platform for WanHam Leathers, showcasing premium leather goods and industrial raw materials to international business buyers.
+Challenge: International buyers struggled to find detailed material specifications and certificate compliance information, leading to high bounce rates.
+Solution: Created a structured Next.js website featuring dedicated material spec sheets, quality compliance certification downloads, and direct WhatsApp / email inquiry paths.
+
+Architecture:
+- Next.js Edge Deployment: Global edge network caching for sub-200ms load times worldwide.
+- Material Spec Catalog: Interactive data tables displaying thickness, grade, finish, and compliance standards.
+- Instant WhatsApp Integration: Direct-click WhatsApp chat pre-populating specific product inquiries.
+- Multilingual SEO: Structured meta tags prepared for future multi-language expansion.
+
+Results:
+- Boosted product inquiry conversion rate by 85%.
+- Delivered sub-200ms page response times for international visitors.
+- Established brand credibility with downloadable compliance and test certifications.
+- Enabled sales reps to instantly share product specs via direct mobile links during trade shows.
+
+FAQs:
+- Q: How does direct WhatsApp inquiry routing help B2B sales?
+  A: International trade buyers often prefer instant messaging over formal email forms. Pre-populating the specific product title in the WhatsApp link enables sales reps to respond immediately with quotes.
+- Q: How are compliance certificates delivered?
+  A: Certificates and lab test reports are stored on encrypted Cloudflare R2 object storage and linked directly from product specification tabs for instant PDF download.
+
+Stack: Next.js, React, Node.js, Tailwind CSS, Cloudflare
+
+### Sedef Anatolia Fragrance Commerce
+URL: https://codeslytic.com/case-studies/sedef-anatolia
+Industry: Fragrance / D2C. Category: E-commerce. Timeframe: 2023 - 2024.
+Story-led Shopify commerce experience balancing premium brand narrative with promotion-ready, conversion-focused browsing.
+
+Impact metrics:
+- Average Order Value: 2.8x. AOV growth driven via curated bundle offers and fragrance sets
+- Cart Conversion: +38%. Increase in add-to-cart to completed checkout conversion
+- Brand Impression: Premium. Bespoke typography, smooth micro-animations, and editorial layout
+
+Overview: Built a story-driven Shopify OS 2.0 e-commerce website for Sedef Anatolia, highlighting artisanal fragrance notes and luxury gift collections.
+Challenge: The fragrance brand struggled to convey sensory notes online, resulting in low single-bottle purchases and low Average Order Value (AOV).
+Solution: Designed an editorial Shopify storefront featuring interactive fragrance note pyramids (top, heart, base notes), sample discovery sets, and curated gift bundle builders.
+
+Architecture:
+- Interactive Scent Pyramid: Custom JS component visualizing top, heart, and base fragrance notes.
+- Curated Bundle Builder: Custom cart logic allowing buyers to build custom 3-bottle discovery boxes.
+- Editorial Theme Layout: High-contrast typography and subtle scroll animations creating a luxury feel.
+- Seamless Checkout: Optimized single-page checkout flow with address auto-complete.
+
+Results:
+- Increased Average Order Value by 2.8x through discovery set bundling.
+- Improved cart-to-checkout conversion rate by 38%.
+- Enhanced brand perception, attracting featured press coverage.
+- Reduced customer returns by providing clear scent note breakdowns on product pages.
+
+FAQs:
+- Q: How did discovery sample sets increase AOV?
+  A: By offering a low-friction discovery set that includes a discount code toward a full-sized bottle, customers frequently purchased the bundle first and returned to buy full-sized fragrances.
+- Q: How was custom scent pyramid data managed in Shopify?
+  A: Fragrance notes were stored using custom Shopify Metafields, allowing the client's team to update scent pyramids directly inside the Shopify admin without touching code.
+
+Stack: Shopify OS 2.0, Liquid, JavaScript, CSS3, Metafields
+
+---
+
+## Frequently Asked Questions
+
+### How is CodesLytic different from legacy IT giants like TCS or Wipro?
+Legacy IT giants suffer from heavy administrative bloat, slow account management bureaucracy, high pricing markups, and junior developers assigned behind sales decks. CodesLytic is a specialized, hands-on engineering squad. You communicate directly with senior developers and data engineers who audit, build, and deploy your codebase  delivering enterprise quality faster and far more cost-effectively.
+
+### Can you execute Oracle to PostgreSQL database migrations without downtime?
+Yes. We utilize continuous Change Data Capture (CDC) replication via AWS DMS paired with manual PL/SQL to PL/pgSQL logic re-engineering. The target PostgreSQL cluster remains synchronized in real time while application logic is verified, enabling an instantaneous cutover window with zero data loss.
+
+### What is your project engagement model and pricing structure?
+We offer transparent fixed-scope milestone projects or sprint-based dedicated engineering retainers. Because we operate without corporate administrative bloat, our pricing is typically 40-50% more cost-effective than traditional agencies while giving you direct senior engineer access.
+
+### How quickly can CodesLytic start on an architecture audit or build?
+We schedule an initial technical discovery call within 24-48 hours. After evaluating your codebase, database schema, or operational requirements, we deliver a technical assessment, execution plan, and timeline within 3-5 business days.
+
+### Can you embed with our existing internal engineering team?
+Absolutely. We frequently collaborate with in-house engineering teams as dedicated domain specialists  executing complex database migrations, building greenfield AWS Redshift warehouses, deploying RAG AI pipelines, or accelerating web/mobile platform releases.
+
+---
+
+## Company & Inquiries
+
+CodesLytic Technologies is an engineering-led consulting partner. Engagements are scoped through a six-step process: discovery and audit, architecture and planning, development and integration, QA/security/compliance, deployment and migration, and managed support and scaling.
+
+Contact:
+- Direct WhatsApp Consultation: +919565555541 (https://wa.me/919565555541)
+- Email: info@codeslytic.com
+- Contact page: https://codeslytic.com/contact
